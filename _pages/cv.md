@@ -12,8 +12,7 @@ redirect_from:
 Education
 ======
 * **Master in Multidisciplinary Engineering**, École Centrale de Lille, 2022 - 2024
-* **Bachelor in Electrical Engineering**, University of São Paulo, 2020 - 2025
-* **Technician in Industrial Automation**, Federal Institute of São Paulo, 2017 - 2019
+* **Bachelor in Electrical Engineering**, Federal University of Ceará, 2020 - 2025
 
 Professional experience
 ======

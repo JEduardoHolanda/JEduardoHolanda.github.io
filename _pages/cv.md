@@ -9,9 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<p><a href="../files/CV_English.pdf" target="_blank" rel="noopener noreferrer">Open English version</a></p>
-<p><a href="../files/CV_Francais.pdf" target="_blank" rel="noopener noreferrer">Ouvrir la version française</a></p>
-
 Education
 ======
 * **Master in Multidisciplinary Engineering**, École Centrale de Lille, 2022 - 2024
@@ -28,44 +25,48 @@ Professional experience
   * Skills acquired: Knowledge in state-of-the-art LQR design control, K-policy search algorithms.
 
 
-## Brainly
-* **Physics Tutor**
-  * May 2022 - January 2023
-  * New York, USA (Remote)
-  * Freelancer
-  * Skills acquired: Improvement on the knowledge of physics and related fields.
-
 Projects
 ======
+
+## End-of-studies project/École Centrale de Lille
+* **Fleet of robots**
+  * December 2023 - Avril 2024
+  * Lille, France
+  * Skills acquired: Knowledge in Raspberry Pi/Arduino, programming in C++ and Python, basic knowledge in Linux and Git.
+  
 ## CHU de Lille/École Centrale de Lille
 * **Brain damage evaluation on newborns with artificial intelligence**
-  * September 2022 - Current
+  * September 2022 - February 2024
   * Lille, France
-  * Skills acquired: Electroencephalogram analysis and artificial intelligence model deployment with REST API.
+  * Skills acquired: Electroencephalogram analysis, basic knowledge in data processing and data analysis.
 
-## Petrobras/University of São Paulo
-* **Machine learning systems for digital twins of oil production unities**
-  * December 2020 - December 2022
-  * São Paulo, Brazil
+## Motor System Laboratory/Federal University of Ceará
+
+* **Basic research about LQR control in MIMO systems**
+  * February 2022 - July 2022
+  * Fortaleza, Brazil
   * Undergraduate researcher
-  * Skills acquired: Signal processing, artificial intelligence, time series analysis and other Data Science related skills.
+  * Skills acquired: MATLAB, Simulink.
 
-## Federal Institute of São Paulo
-* **Hybrid mobile robot control software with image processing**
-  * February 2018 - December 2019
-  * Suzano, Brazil
-  * Skills acquired: Mobile robotics, embedded systems, Raspberry Pi, OpenCV, Computer Aided Design and 3D printing.
+* **Basic research about IoT using ESP32**
+  * November 2021 - January 2022
+  * Fortaleza, Brazil
+  * Undergraduate researcher
+  * Skills acquired: VS Code, Python, matplotlib, MQTT, ESP32.
+
+## Federal University of Ceará
+* **Tutorial Education Program - PET**
+  * April 2019 - July 2021
+  * Fortaleza, Brazil
+  * Skills acquired: Project management, people management, public speaking.
 
 Languages
 ======
 * **English**
-  * Advanced - C1 (Cambridge FCE Score 186/190)
+  * Advanced
 
 * **French**
-  * Advanced - C1 (TCF Score 560/699)
-
-* **Spanish**
-  * Basic - Currently studying
+  * Advanced
 
 * **Portuguese**
   * Native language
@@ -73,24 +74,8 @@ Languages
 Skills
 ======
 * **Programming**
-  * Python; Jupyter Notebooks; C/C++; Java; Ladder/Grafcet for PLC; Labview; VHDL; SQL (currently studying)
+  * Python; Jupyter Notebooks; C/C++
 * **Soft skills**
   * Team work; Project management; Advanced project planning; Strategic analysis
 * **Miscellaneous**
-  * Linux; Raspberry Pi; Matplotlib; Pandas; Docker; git; Kedro; Keras; Tensorflow; PyTorch; OpenCV; Computer Aided Design; 3D Printing; MS Excel; Latex
-
-Achievements
-======
-* **2022**
-  * Tech Fellow excellence program @ Fundação Estudar (23 selected from 4285 candidates)
-* **2021**
-  * Honorable mention at the international congress SIICUSP. Best research of the section.
-* **2019**
-  * Brazilian Olympiad of Robotics (1st place)
-  * Mathematics without frontiers (3rd place)
-  * Federal Institute Congress of Science and Culture (3rd place on engineering)
-  * 4 published papers awarded with junior scientific research funding
-* **2018**
-  * Federal Institute Tournament of Robotics (2nd place)
-  * Brazilian Olympiad of Robotics (3rd place)
-  * Federal Institute Congress of Science and Culture (3rd place on engineering)
+  * Linux; Raspberry Pi; Matplotlib; Pandas; git; Keras; Tensorflow; PyTorch; MS Excel; Latex
